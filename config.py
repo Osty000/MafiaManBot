@@ -1,7 +1,7 @@
-TOKEN = 'OTY0NDU5NjAyNzE4NjI1ODIy.GuJP8w.249q5olFACj5MH9lI7BTHlMIDdW0ZSkjTgvWp4'
+TOKEN = ''
 
 xp_multiplier = 2
-bot_id = 964459602718625822
+bot_id = 
 
 #COLORS
 c_info = 0x1b8196
@@ -17,6 +17,6 @@ welcome_mess = [
 ]
 
 users_whitelist = [
-    '374834407368032256',
-    '518530098207522816'
+    '',
+    ''
 ]
